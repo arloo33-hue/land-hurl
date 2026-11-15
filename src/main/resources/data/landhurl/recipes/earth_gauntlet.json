@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["III", "ILI", "D D"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "L": {"item": "minecraft:leather"},
+    "D": {"item": "minecraft:diamond"}
+  },
+  "result": {"item": "landhurl:earth_gauntlet", "count": 1}
+}
